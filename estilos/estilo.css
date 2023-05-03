@@ -1,0 +1,84 @@
+
+body{
+    background-color: black;
+    background-image:url("https://w0.peakpx.com/wallpaper/997/528/HD-wallpaper-saint-seiya-anime-caballeros-del-zodiaco-knights-of-the-zodiac.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.lo{
+    background-image:url("https://w0.peakpx.com/wallpaper/853/650/HD-wallpaper-caballero-de-cancer-caballeros-del-zodiaco-saint-seiya.jpg");
+}
+.wa{
+    background-image:url("https://w0.peakpx.com/wallpaper/526/1005/HD-wallpaper-afrodita-de-piscis-caballeros-del-zodiaco-saint-seiya.jpg");
+}
+.what{
+    background-image:url("https://w0.peakpx.com/wallpaper/589/535/HD-wallpaper-camus-de-acuario-caballeros-del-zodiaco-saint-seiya.jpg");
+}
+.do{
+    background-image:url("https://w0.peakpx.com/wallpaper/98/494/HD-wallpaper-shaka-de-virgo-caballeros-del-zodiaco-seint-seiya.jpg");
+}
+.de{
+    background-image:url("https://w0.peakpx.com/wallpaper/636/1003/HD-wallpaper-sagitario-caballeros-del-zodiaco-saint-seiya.jpg");
+}
+.titulo{
+    display: block;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom:-10px;
+    color:rgb(166, 255, 0);
+    text-shadow: 2px 3px 5px rgb(4, 226, 255);
+    font-size: 45px;
+}
+h2{
+    margin-top: 7%;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: px;
+    font-size: 30px;
+    color: rgb(0, 217, 255);
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+}
+.padre{
+    margin-top: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    height: 55px;
+    width: 155px;
+    font-size: 30px;
+    background-color: rgb(245, 12, 225);
+    color: rgb(255, 6, 6);
+    border-radius: 5rem;
+    border: 2px solid blue;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+
+}
+button:hover{
+    color: black;
+    background-color: aliceblue;
+    transition: 1s;
+}
+a{
+    text-decoration: none;
+}
+.enlace{
+    color:rgb(36, 235, 10);
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+}
+.dia{
+    margin-bottom: 30px;
+}
